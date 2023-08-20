@@ -1,0 +1,25 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7038
+    [34mall[39m: [
+      [34;4mApp\Models\User[39;24m {#7053
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32m山田太郎[39m",
+        [34mcreated_at[39m: "[32m2023-08-20 08:59:28[39m",
+        [34mupdated_at[39m: "[32m2023-08-20 08:59:28[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#7042
+          [34mbook_id[39m: [35m2[39m,
+          [34muser_id[39m: [35m1[39m,
+        },
+      },
+      [34;4mApp\Models\User[39;24m {#6082
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32m田中花子[39m",
+        [34mcreated_at[39m: "[32m2023-08-20 08:59:39[39m",
+        [34mupdated_at[39m: "[32m2023-08-20 08:59:39[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#6073
+          [34mbook_id[39m: [35m2[39m,
+          [34muser_id[39m: [35m2[39m,
+        },
+      },
+    ],
+  }
+

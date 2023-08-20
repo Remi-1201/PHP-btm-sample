@@ -1,0 +1,25 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7059
+    [34mall[39m: [
+      [34;4mApp\Models\Book[39;24m {#7054
+        [34mid[39m: [35m2[39m,
+        [34mtitle[39m: "[32mデータベースの世界[39m",
+        [34mcreated_at[39m: "[32m2023-08-20 09:00:13[39m",
+        [34mupdated_at[39m: "[32m2023-08-20 09:00:13[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#7058
+          [34muser_id[39m: [35m2[39m,
+          [34mbook_id[39m: [35m2[39m,
+        },
+      },
+      [34;4mApp\Models\Book[39;24m {#7057
+        [34mid[39m: [35m3[39m,
+        [34mtitle[39m: "[32mHTMLの初歩[39m",
+        [34mcreated_at[39m: "[32m2023-08-20 09:00:31[39m",
+        [34mupdated_at[39m: "[32m2023-08-20 09:00:31[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#7039
+          [34muser_id[39m: [35m2[39m,
+          [34mbook_id[39m: [35m3[39m,
+        },
+      },
+    ],
+  }
+
